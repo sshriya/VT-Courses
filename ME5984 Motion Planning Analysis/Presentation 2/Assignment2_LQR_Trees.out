@@ -1,0 +1,25 @@
+\BOOKMARK [2][]{Outline0.1}{Motivation}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Direct Computation of Lyapunov Functions}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.4}{Lyapunov Functions}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.6}{Sum of Squares Validation}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.3.9}{Complementary - Pontryagin's Principle}{Outline0.2}% 5
+\BOOKMARK [2][]{Outline0.3}{Linear Feedback Design and Verification}{}% 6
+\BOOKMARK [3][]{Outline0.3.1.10}{Continuous time LQR}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.2.13}{State LQR Verification}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.3.17}{Trajectory Optimization}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.4.18}{Trajectory LQR Verification}{Outline0.3}% 10
+\BOOKMARK [2][]{Outline0.4}{Motion Planning}{}% 11
+\BOOKMARK [3][]{Outline0.4.1.19}{Motion Planning Overview}{Outline0.4}% 12
+\BOOKMARK [3][]{Outline0.4.2.21}{Configuration Space}{Outline0.4}% 13
+\BOOKMARK [3][]{Outline0.4.3.24}{Planning on C-Space}{Outline0.4}% 14
+\BOOKMARK [2][]{Outline0.5}{Combinatorial Planning}{}% 15
+\BOOKMARK [3][]{Outline0.5.1.27}{Outline}{Outline0.5}% 16
+\BOOKMARK [3][]{Outline0.5.2.28}{Visibility Graph}{Outline0.5}% 17
+\BOOKMARK [3][]{Outline0.5.3.29}{Voronoi Diagram}{Outline0.5}% 18
+\BOOKMARK [3][]{Outline0.5.4.30}{Conclusion}{Outline0.5}% 19
+\BOOKMARK [2][]{Outline0.6}{Sample Based Planning}{}% 20
+\BOOKMARK [3][]{Outline0.6.1.31}{Outline}{Outline0.6}% 21
+\BOOKMARK [3][]{Outline0.6.2.32}{Rapidly exploring random trees}{Outline0.6}% 22
+\BOOKMARK [3][]{Outline0.6.3.33}{Algorithm}{Outline0.6}% 23
+\BOOKMARK [2][]{Outline0.7}{Conclusions}{}% 24
+\BOOKMARK [2][]{Outline0.8}{References}{}% 25
